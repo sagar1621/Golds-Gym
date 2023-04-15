@@ -58,8 +58,9 @@ body {
     right: 40px;
     top: 0px;
     width: 700px;
-    height: 900px;
+    height: 950px;
     margin-top: -330px;
+    border-bottom-left-radius:20%;
   
   }
   
