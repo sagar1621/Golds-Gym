@@ -1,9 +1,16 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Gold's Gym
+Checkout [Live](https://golds-gym-sagar1621.netlify.app/) Link
+
+# Demo
+[Demo Video](https://drive.google.com/file/d/1GN0E0yHduLMBlxITmMjiRUrjrid-NKAU/view?usp=sharing)
+
 
 ## Available Scripts
-
+Clone the repo and run 
+### `npm install`
 In the project directory, you can run:
 
 ### `npm start`
