@@ -1,77 +1,51 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Gold's Gym
+
+Gold's Gym is a dynamic website developed for fitness enthusiasts using ReactJS, Tailwind CSS, Material UI, HTML, and Rapid API. The website provides a platform for users to search for exercises by body part, view exercise details, and watch related exercise videos using YouTube API from RapidAPI.
+
+# Technologies Used
+1. ReactJS: A popular JavaScript library for building user interfaces.
+2. Tailwind CSS: A modern CSS framework for quick and easy styling of user            interfaces.
+3. Material UI: A popular React UI framework for building responsive and visually     appealing components.
+4. HTML: The standard markup language for creating web pages.
+5. Rapid API: A platform that provides APIs for various functionalities, used for     fetching exercise details and related videos.
+
+# Features
+1. Search functionality allowing users to search for exercises by body part.
+2. Pagination for displaying search results in a user-friendly manner.
+3. Animated GIFs for visual demonstration of exercises, with click functionality to    view exercise details page.
+4. Fetching exercise details, including descriptions, images, and videos, using        Rapid API.
+5. Displaying related exercise videos using YouTube API.
+
 Checkout [Live](https://golds-gym-sagar1621.netlify.app/) Link
 
 # Demo
 [Demo Video](https://drive.google.com/file/d/1GN0E0yHduLMBlxITmMjiRUrjrid-NKAU/view?usp=sharing)
 
+# Installation
+1. Clone the project to your local machine.
+2. Run npm install to install the required node modules.
+3. Obtain [YouTube API keys](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/) and [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/).
+4. Replace the placeholder API keys in the code with your own keys.
+5. Run npm run start to start the development server.
+6. Open http://localhost:3000 in your web browser to view the website.
 
-## Available Scripts
-Clone the repo and run 
-### `npm install`
-In the project directory, you can run:
+Note: The website requires an internet connection to fetch exercise details and videos from the APIs.
 
-### `npm start`
+# Learn More
+You can learn more about ReactJS, Tailwind CSS, and Material UI in their respective documentation:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ReactJS documentation
+Tailwind CSS documentation
+Material UI documentation
+For more information on Rapid API, refer to the Rapid API documentation.
+For more information on YouTube API, refer to the YouTube API documentation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Deployment
+The website can be built for production using npm run build command, which will create a production-ready build in the build folder. The build can then be deployed to a web server or hosting service of your choice.
 
-### `npm test`
+For more information on deployment, refer to the Create React App documentation.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Troubleshooting
+If you encounter any issues or errors, you can refer to the Create React App documentation for troubleshooting tips and solutions.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Get ready to pump some iron with Gold's Gym website!
