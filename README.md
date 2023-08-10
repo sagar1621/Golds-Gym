@@ -1,6 +1,6 @@
 # Gold's Gym
 
-Gold's Gym is a dynamic website developed for fitness enthusiasts using ReactJS, Tailwind CSS, Material UI, HTML, and Rapid API. The website provides a platform for users to search for exercises by body part, view exercise details, and watch related exercise videos using YouTube API from RapidAPI.
+Gold's Gym is a dynamic website developed for fitness enthusiasts using ReactJS, Material UI, HTML, and Rapid API. The website provides a platform for users to search for exercises by body part, view exercise details, and watch related exercise videos using YouTube API from RapidAPI.
 
 # Technologies Used
 1. ReactJS: A popular JavaScript library for building user interfaces.
